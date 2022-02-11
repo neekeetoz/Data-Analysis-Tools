@@ -7,5 +7,5 @@ ____
  № Л/р | Название | Статус| Ссылка на файл
  ----- |----------|-------|------
  0 | NumPy |  Не выполнено | Отсутствует |
- 1 | Pandas | Не выполнено | https://github.com/neekeetoz/Data-Analysis-Tools/blob/main/lab_1_pandas_6132.ipynb |
+ 1 | Pandas | Не выполнено | ('done') |
  2 | Visual | Не выполнено | Отсутствует |
